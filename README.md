@@ -5,7 +5,6 @@
 ### *Learn 3D Modeling with OpenSCAD from Scratch*
 
 [![OpenSCAD](https://img.shields.io/badge/OpenSCAD-3D%20Modeling-yellow?style=for-the-badge&logo=openscad)](https://openscad.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![3D Print Ready](https://img.shields.io/badge/3D%20Print-Ready-green?style=for-the-badge)](https://github.com/AtharvaLotankar11/OpenSCAD_Basics-3D-Print)
 
 <img src="https://img.shields.io/github/stars/AtharvaLotankar11/OpenSCAD_Basics-3D-Print?style=social" alt="GitHub stars">
@@ -235,10 +234,6 @@ git push origin feature/AmazingFeature
 ```
 
 </div>
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
